@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 print('\t\tJogo da velha em Python v1.0.0\n')
 
 # Matriz correspondente ao tabuleiro 
